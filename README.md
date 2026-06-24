@@ -183,7 +183,7 @@ No physical hardware required to run this project.
 
 **Rahil Patel**  
 ENC '29 — Thapar Institute of Engineering & Technology  
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/rahil-patel-59a940383/) | [GitHub](https://github.com/rahilpatel08)
 
 ---
 
