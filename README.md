@@ -55,23 +55,23 @@ I tested all four states by manually adjusting the TMP36 temperature value insid
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](circuit.PNG)
+![Circuit Diagram](circuit_smartfan.PNG)
 
 ---
 
 ## 📷 System Operation
 
 ### Normal Temperature (<30°C)
-![Normal](normal-operation.PNG)
+![Normal](normal_operation.PNG)
 
 ### Moderate Temperature (30°C – 35°C)
-![Slow Fan](slow-fan.PNG)
+![Slow Fan](slow_fan.PNG)
 
 ### High Temperature (35°C – 40°C)
-![Medium Fan](medium-fan.PNG)
+![Medium Fan](medium_fan.PNG)
 
 ### Critical Temperature (>40°C)
-![Max Fan](max-fan.PNG)
+![Max Fan](max_fan.PNG)
 
 ---
 
@@ -184,7 +184,7 @@ No physical hardware required to run this project.
 
 **Rahil Patel**  
 ENC '29 — Thapar Institute of Engineering & Technology  
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/rahil-patel-59a940383/) | [GitHub](https://github.com/rahilpatel08)
 
 ---
 
