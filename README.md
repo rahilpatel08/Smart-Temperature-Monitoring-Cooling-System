@@ -1,4 +1,5 @@
-# 🌡️ Smart Temperature Monitoring & Cooling System
+# 🌡️ CoolSense
+### Arduino-Based Smart Temperature Monitoring & Cooling System
 
 An intelligent temperature-based automatic cooling system built using **Arduino Uno** and simulated on **Tinkercad**.  
 The system reads real-time temperature data, displays it on an LCD, and automatically controls fan speed using PWM — all based on predefined temperature thresholds.
@@ -54,23 +55,23 @@ I tested all four states by manually adjusting the TMP36 temperature value insid
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](circuit_smartfan.PNG)
+![Circuit Diagram](circuit.PNG)
 
 ---
 
 ## 📷 System Operation
 
 ### Normal Temperature (<30°C)
-![Normal](normal_operation.PNG)
+![Normal](normal-operation.PNG)
 
 ### Moderate Temperature (30°C – 35°C)
-![Slow Fan](slow_fan.PNG)
+![Slow Fan](slow-fan.PNG)
 
 ### High Temperature (35°C – 40°C)
-![Medium Fan](medium_fan.PNG)
+![Medium Fan](medium-fan.PNG)
 
 ### Critical Temperature (>40°C)
-![Max Fan](max_fan.PNG)
+![Max Fan](max-fan.PNG)
 
 ---
 
@@ -183,7 +184,7 @@ No physical hardware required to run this project.
 
 **Rahil Patel**  
 ENC '29 — Thapar Institute of Engineering & Technology  
-[LinkedIn](https://www.linkedin.com/in/rahil-patel-59a940383/) | [GitHub](https://github.com/rahilpatel08)
+[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
 
 ---
 
